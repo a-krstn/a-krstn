@@ -12,6 +12,4 @@
 ### Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/al_krstn)
 
-[stepik](https://stepik.org/users/430283375/profile)<br>
-[codewars](https://www.codewars.com/users/a_krstn)<br>
-[leetcode](https://leetcode.com/u/a_krstn/)
+[stepik](https://stepik.org/users/430283375/profile) | [codewars](https://www.codewars.com/users/a_krstn) | [leetcode](https://leetcode.com/u/a_krstn/)
